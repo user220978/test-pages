@@ -73,8 +73,3 @@ markdown_extensions:
 plugins:
   - search
   - awesome-nav
-  - pub-obsidian:
-      obsidian_dir: .obsidian
-      templates_dir: _templates
-      callouts:
-        enabled: true
